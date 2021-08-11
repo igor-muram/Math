@@ -1,10 +1,8 @@
 # Math
 
-<ul>
-  <li>Visualization of partitioning methods for constructing a triple integral.</li>
-  <li>Visualization of approximation of volumetric figures by rectangular parallelepipeds.</li>
-  <li>Examples of partitions are made for a prism and a pyramid.</li>
-</ul>
+* Visualization of partitioning methods for constructing a triple integral.
+* Visualization of approximation of volumetric figures by rectangular parallelepipeds.
+* Examples of partitions are made for a prism and a pyramid.
 
 ## Approximation of prism by horizontal parallelepipeds
 
