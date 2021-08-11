@@ -2,6 +2,10 @@
 
 * Visualization of partitioning methods for constructing a triple integral.
 * Visualization of approximation of volumetric figures by rectangular parallelepipeds.
+* When approximating figures with horizontal parallelepipeds, a cross-section of the figure is dynamically depicted.
+* For each type of shape partitioning, you can adjust the time to build the partition.
+* For approximation with horizontal parallelepipeds you can additionally adjust the number of partitions.
+* For approximation with vertical parallelepipeds you can additionally set the uniform or non-uniform mesh.
 * Examples of partitions are made for a prism and a pyramid.
 
 ## Approximation of prism by horizontal parallelepipeds
